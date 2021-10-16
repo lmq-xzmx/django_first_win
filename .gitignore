@@ -5,3 +5,4 @@ front_end/
 back_end_recipe/
 back_end_movies/
 /db.sqlite3
+media/*
